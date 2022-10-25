@@ -1,0 +1,46 @@
+@charset "UFT-8";
+body{
+    font-family: 'Reggae One';
+    background-color: black;
+    color:red;
+
+}
+.box1 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 3px #000000;
+}
+.box9 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #ff7d6e;
+    background: black;
+    border-top: solid 10px red;
+}
+.box9 p {
+    margin: 0; 
+    padding: 0;
+}
+.kiiro{
+    color:yellow;
+}
+.id p{
+    color:white;
+}
+.kanryou h1{
+    font-size:4.5cm;
+}
+h1{
+    font-size: 1cm;
+}
+.kiiro h3{
+    text-indent: 1cm;
+    font-size: 3cm;
+}
+.kiiro p{
+    font-size: 1cm;
+}
+.kiiro h1{
+    font-size: 5cm;
+}

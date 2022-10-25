@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.haikei{
+        font-size: 1cm;
+    background-color: #faa61a;
+}
+.haikei i{
+    font-size: 1cm;
+    color:red;
+}
+.haikei i u{
+    font-weight: bold;
+}
+.haikei2{
+    background-color: #faa61a;
+}
+body{
+    background-color:rgb(23, 75, 12);
+}
